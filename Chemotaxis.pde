@@ -25,7 +25,7 @@ class Bacteria
   {
     myX = 300;
     myY = 600;
-    fill(#CD2DFA);
+    fill(205,45,250);
   }
   void show()
   {
